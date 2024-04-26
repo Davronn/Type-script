@@ -1,3 +1,6 @@
+body{
+  background-color: #979797;
+}
 .calculator {
   width: 400px;
   margin: 250px auto;
@@ -8,9 +11,12 @@
 }
 
 .result {
-  width: 90%;
+  width: 95%;
   margin-bottom: 10px;
-  padding: 5px;
+  padding: 8px;
+  border-radius:10px ;
+  border: none;
+  color: #e9e9e9;
 }
 
 .buttons {

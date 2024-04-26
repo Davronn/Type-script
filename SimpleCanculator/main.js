@@ -1,5 +1,4 @@
 var result = "";
-console.log(result);
 function appendToResult(value) {
     result += value;
     document.getElementById("result").value = result;

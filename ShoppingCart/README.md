@@ -1,0 +1,1 @@
+Mahsulot qoshilgani consolda chiqadi
