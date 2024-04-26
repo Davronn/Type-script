@@ -33,7 +33,7 @@ function renderProducts(): void {
 }
 
 function addToCart(productId: number): void {
-  console.log(`Product with ID ${productId} added to cart`);
+  console.log(`Added ${productId} ID product to cart`);
 }
 
 renderProducts();
