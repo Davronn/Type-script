@@ -1,4 +1,3 @@
-export {};
 let result: string = "";
 
 function appendToResult(value: string): void {

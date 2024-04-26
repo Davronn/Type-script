@@ -1,3 +1,3 @@
 Codelarni ishlatish uchun terminalga 
-+ node SimpleFunctions/main   
-deb yozing
+node SimpleFunctions/main   
+deb yodim

@@ -1,19 +1,20 @@
-var result = '';
+var result = "";
+console.log(result);
 function appendToResult(value) {
     result += value;
-    document.getElementById('result').value = result;
+    document.getElementById("result").value = result;
 }
 function clearResult() {
-    result = '';
-    document.getElementById('result').value = result;
+    result = "";
+    document.getElementById("result").value = result;
 }
 function calculateResult() {
     try {
         result = eval(result);
-        document.getElementById('result').value = result;
+        document.getElementById("result").value = result;
     }
     catch (error) {
-        alert('Invalid expression');
+        alert("Invalid expression");
         clearResult();
     }
 }
