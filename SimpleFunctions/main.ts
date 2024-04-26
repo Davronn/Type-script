@@ -1,5 +1,4 @@
-export {};
-console.log("helo ts");
+console.log("helo TS");
 
 // Kvadratni maydonini hisoblayuvchi funksiya
 function kvadrat(uzunlik: number): number {
@@ -26,6 +25,7 @@ function runFunction() {
 
   const doiraM = doira(3);
   console.log("Doira maydoni:", doiraM);
+  
 }
 
 // Test funksiyasini chaqirish

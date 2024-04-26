@@ -1,6 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-console.log("helo ts");
+console.log("helo TS");
 // Kvadratni maydonini hisoblayuvchi funksiya
 function kvadrat(uzunlik) {
     return uzunlik * uzunlik;
